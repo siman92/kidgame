@@ -1,0 +1,2 @@
+# kidgame
+kid-game-kz
